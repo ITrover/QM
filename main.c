@@ -6,7 +6,7 @@
 #define false 0
 #define STACK_INIT_SIZE 10
 #define STACKINCREMENT 10
-#define MAXBIT 9
+#define MAXBIT 9//最大的字节数
 typedef int SElemtype;
 typedef int Status;
 typedef struct{
